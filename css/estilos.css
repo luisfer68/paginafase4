@@ -115,3 +115,18 @@ footer {
     }
     
 }
+@media screen and (max-width:320px){
+    img {
+    max-width:200px;
+    }
+   
+    #container{
+    width:auto;
+    } 
+   
+    header h1 a{
+    width:auto;
+    height:52px;
+    /* background:url(image-small.jpg) no-repeat 50% 0; */
+    }
+   }
