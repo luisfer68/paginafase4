@@ -26,7 +26,7 @@ div{
 }
 .section {
     display: grid;
-    grid-template-columns: lfr lfr lfr lfr lfr;
+    grid-template-columns:lr lr lr lr lr ;
 }
 
 .article {
@@ -47,9 +47,9 @@ div{
 
 footer {
     background-color: aquamarine;
-    font: size 12px;
+    font-size: 12px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding: auto;
+    padding:12px ;
 }
 
 .centrar {
